@@ -15,7 +15,7 @@ declare global {
   }
 }
 
-Object.assign(Reflect, {
+export const Reflected = Object.assign(Reflect, {
   defineMetadata: Implementation.defineMetadata,
   getMetadata: Implementation.getMetadata,
   deleteMetadata: Implementation.deleteMetadata,
