@@ -1,0 +1,8 @@
+{
+  "tasks": {
+  },
+  "fmt": {
+    "singleQuote": true,
+    "semiColons": false
+  }
+}
